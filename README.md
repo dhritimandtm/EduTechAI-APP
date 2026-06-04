@@ -1,6 +1,6 @@
 # edutechai
 
-A new Flutter project.
+A AIEduTech project.
 
 ## Getting Started
 
