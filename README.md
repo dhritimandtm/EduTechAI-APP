@@ -1,4 +1,4 @@
-# edutechai
+# EduTech_AI
 
 A AIEduTech project.
 
